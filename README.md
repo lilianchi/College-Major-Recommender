@@ -1,5 +1,5 @@
 # College-Major-Recommender
-A repository with our team's final R project.
+A repository with our team's final R project in MGMT 590 R course at Purdue University.
 # COLLEGE MAJOR SELECTION
 Authors: 
 * Kai-Duan Chang
