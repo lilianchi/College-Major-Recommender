@@ -1,0 +1,14 @@
+name: 1234
+title: 1234
+username:
+account: lilianchuang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4491254
+bundleId: 4921515
+url: https://lilianchuang.shinyapps.io/1234/
+when: 1628897591.74212
+lastSyncTime: 1628897591.74212
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/.DS_Store|README.md|www/.DS_Store
