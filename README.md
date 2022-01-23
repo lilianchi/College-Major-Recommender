@@ -23,6 +23,9 @@ On the first two pages (Explore and Compare), the user can see many different ch
 
 Another thing the user will be able to do is receive a recommendation for which college major category they should select. This is followed up by a list of majors in that category for the user to select from.
 
+### Shinyapps.io Link
+https://regbert.shinyapps.io/college-major-recommender/
+
 ### Presentation link
 https://www.youtube.com/watch?v=c2F5gqk18QQ
 
