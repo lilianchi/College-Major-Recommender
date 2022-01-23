@@ -29,22 +29,14 @@ https://regbert.shinyapps.io/college-major-recommender/
 ### Presentation link
 https://www.youtube.com/watch?v=c2F5gqk18QQ
 
-### Packages used
-* shiny
-* shinyWidgets
-* shinythemes
-* rsconnect
-* h2o
-* caret
-* ggplot2
-* plotly
-* dplyr
-* tidyr
-* markdown
-* DT
-* knitr
-* kableExtra
-* ggthemes
-* gghighlight
-* scales
-* ggrepel
+### Conclusion
+With our Shiny app, students have a guide that helps them choose a college major based on their actual 
+interests. While we can’t say for a fact that our Shiny app rivals the combined 1.8 billion google results from 
+“What should my major be?”, we firmly believe our project is a great starting place in tackling this challenging 
+question.
+
+### References
+We based our Shiny app on Zimin Luo’s and Lasha Gochiashvili’s project “Graduate Employment in 
+Singapore” to build our UI from. We really thought their GUI design was perfect for how we wanted our 
+interface to be for our project.
+
