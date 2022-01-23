@@ -6,6 +6,9 @@ undergraduate programs had changed their major at least once and 10% of undergra
 In order to help these student make better, well informed decisions, our group has set out to create a tool to aid in this decision making
 process.
 
+### Programming language
+R
+
 ### Authors
 * Kai-Duan Chang
 * Li-Ci Chuang
